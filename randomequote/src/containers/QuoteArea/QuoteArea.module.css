@@ -1,0 +1,10 @@
+.QuoteArea {
+    width: 70%;
+    box-sizing: border-box;
+    background-color: teal;
+    padding: 50px;
+    border-radius: 8px;
+    margin: auto;
+    position: relative;
+    top: 120px;    
+};
